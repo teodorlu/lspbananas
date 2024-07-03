@@ -1,0 +1,2 @@
+{:deps {io.github.teodorlu/lspbananas {:local/root "."}
+        com.lambdaisland/launchpad {:mvn/version "0.30.139-alpha"}}}
